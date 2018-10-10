@@ -1,4 +1,4 @@
-## watchgpu-edge
+# watchgpu-edge
 Edge server for [watchgpu-master](https://github.com/takuseno/watchgpu-master)
 
 ## Install
